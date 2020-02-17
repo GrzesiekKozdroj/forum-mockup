@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,UACI,iBAAiB,CACjB,QAAQ,CACR,UAAU,CACV,WAAW,CACX,UACJ,CACA,MACI,eAAgB,CAChB,iBACJ","file":"main.08d5a7bf.chunk.css","sourcesContent":[".home img {\n    position:absolute;\n    top:23px;\n    left:-42px;\n    opacity:.95;\n    height:90%;\n}\n.home{\n    overflow: hidden;\n    padding-left:80px;\n}"]}
