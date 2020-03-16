@@ -4,5 +4,6 @@ This time. following online tutorial I freshened up my knowledge regarding tripl
 -*redux* <br />
 -*routeer* <br />
 -*Materialise-css* <br />
+https://grzesiekkozdroj.github.io/about
 it loads dummy posts from database, and allows locally to switch between routes and delete single posts locally without altering database.__
 ![img](https://raw.githubusercontent.com/GrzesiekKozdroj/reactRefresherSt/master/Screenshot.png)
