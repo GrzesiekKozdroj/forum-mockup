@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br />
-This time. following online tutorial I freshened up my knowledge regarding triple **R** <br />
+This time, following online tutorial I freshened up my knowledge regarding triple **R** <br />
 -*react* <br />
 -*redux* <br />
--*routeer* <br />
+-*router* <br />
 -*Materialise-css* <br />
 https://grzesiekkozdroj.github.io/about <br />
 it loads dummy posts from database, and allows locally to switch between routes and delete single posts locally without altering database.__
